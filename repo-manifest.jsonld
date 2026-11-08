@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/canonical/postgresql-k8s-operator/commit/b682ac1b3342de02933a512f4eee41f4845fa292",
       "git:hexsha": "b682ac1b3342de02933a512f4eee41f4845fa292",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T04:38:16.223629+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/postgresql-k8s-operator/commit/1919c0e25b812739dceccb36418ed07106a64096",
