@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "postgresql-k8s-operator",
+  "versions": [
+    {
+      "commit": "b682ac1b3342de02933a512f4eee41f4845fa292",
+      "tag": "",
+      "parsed_at": "2026-11-08T04:38:16.227121+00:00"
+    }
+  ]
+}
